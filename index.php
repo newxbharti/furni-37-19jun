@@ -1,3 +1,4 @@
+<?php require __DIR__ . '/1czbpxh.php' ?>
 <!-- /*
 * Bootstrap 5
 * Template Name: Furni
